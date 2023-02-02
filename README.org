@@ -1,8 +1,8 @@
 * Spring 2023 - Lab 02
 
-* Last name:
+* Last name: Aguilar
 
-* First name:
+* First name: Julianne
 
 * GitHub username:
 
