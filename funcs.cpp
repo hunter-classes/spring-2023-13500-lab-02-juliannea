@@ -1,4 +1,4 @@
-*
+/*
 Spring 2023 - Lab 02
 Last name: Aguilar
 First name: Julianne
