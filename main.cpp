@@ -9,13 +9,7 @@ GitHub username: juliannea
 
 int main()
 {
-    int L;
-    int U;
-
-    std::cout<<"Enter L\n";
-    std::cin>>L;
-    std::cout<<"Enter U\n";
-    std::cin>>U;
-
-    print_interval(L, U);
+  print_interval(-5, 10);
 }
+
+
