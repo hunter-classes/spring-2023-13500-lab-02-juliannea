@@ -10,6 +10,15 @@ GitHub username: juliannea
 int main()
 {
   print_interval(-5, 10);
+
+  std::cout<<"\n";
+
+  print_interval(4, 11);
+
+  std::cout<<"\n";
+
+  print_interval(-10,-2);
+  
 }
 
 
