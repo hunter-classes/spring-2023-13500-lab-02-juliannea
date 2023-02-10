@@ -18,7 +18,11 @@ int main()
   std::cout<<"\n";
 
   print_interval(-10,-2);
+
+  std::cout<<" \n";
   
+  return 0;
 }
+
 
 
